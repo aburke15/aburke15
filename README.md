@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andre!</h1>
 <h3 align="center">Programmer, technology, and motorcycle enthusiast.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/aburke15](https://www.github.com/aburke15)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/aburke15?tab=repositories)
 
 - 💬 Ask me about **C#, ASP.NET Core, anything!**
 
