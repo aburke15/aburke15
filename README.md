@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andre!</h1>
+<h1 align="center">Hi 👋🏽, I'm Andre!</h1>
 <h3 align="center">Programmer, technology, and motorcycle enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburke15&label=Profile%20views&color=0e75b6&style=flat" alt="aburke15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aburke15" alt="aburke15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Projects](https://www.github.com/aburke15?tab=repositories)
+- 👨🏽‍💻 All of my projects are available at [Projects](https://www.github.com/aburke15?tab=repositories)
 
 - 💬 Ask me about **C#, ASP.NET Core, anything!**
 
