@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Andre!</h1>
-<h3 align="center">Programmer, technology, and motorcycle enthusiast.</h3>
+<h3 align="center">Programmer. Technology and motorcycle enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburke15&label=Profile%20views&color=0e75b6&style=flat" alt="aburke15" /> </p>
 
