@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#, ASP.NET Core, anything!**
 
-- 📫 How to reach me **aburke.dev@gmail.com**
+- 📫 How to reach me **good_credits.08@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
